@@ -89,9 +89,3 @@ $ yarn serve or $ npm run serve
 
 - GitLab
 
-
-
-## 📝 License
-
-Copyright © 2020 I 인싸들
-This project is [MIT](https://github.com/chloe-codes1/FutSalah/blob/master/LICENSE) licensed.
